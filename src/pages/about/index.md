@@ -1,19 +1,27 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Kdo jsem?
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Jemnuji se Tomáš Pešek. Jsem programátor. V současné době pracuji pro mediální dům Economia na pozici programátora. Pracuji na obsahových webech, jako je třeba [aktuálně.cz](https://www.aktualne.cz/), [žena.cz](https://zena.aktualne.cz/) nebo [studenta.cz](https://www.studenta.cz/).
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### O práci
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+S programováním jsem se seznámil na střední škole. Ve čtvrtém ročníku, v roce 2008, jsem začal pracovat pro společnost Medoro, kde jsem se skoro deset let věnova vývoji softwaru převážně pro zdravotnictví. Vedl jsem vývoj onkologického informačního systému nebo lékárenského systému pro skladové hospodářství a podporu přípravy léků s velmi vysokou účinností (př. cytostatika).
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Na konci roku 2017 jsem si uvědomil, že potřebuji změnu a z malé firmy z malého města jsem utekl do korporátu v Karlíně. O programování bych se zde čas od času chtěl zmínit.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### O dronech
+
+Rovněž jsem ke konci roku 2017 navštívil BarCamp Hradec Králové, kde jsem si poslech přednášku od [Romana Mařáka](https://twitter.com/MarakRoman) na téma **Z 0 na 100 s kvadrokoptérou za 5 000,- **a objevil jsem svět FPV dronů, do kterého jsem se zamiloval. Oprášil jsem znalosti elektroniky ze střední a momentálně stavím už druhého drona. Mám v havě pár poznatků, které potřebuji někde zvěčnit a proto jsem oprášil svou doménu a blog.
+
+### O focení
+
+Původní myšlenka blogování byla o tom, že si budu zaznamenávat své pokroky při focení. Když už jsem obnově blogu věnoval nějaký čas, doufám, že se k tomuto původnímu záměru vrátím.
+
+### O psech
+
+Také jsem majitelem šestiletého labradora Bárnyho. Bárny je labradorský retrívr (takže ano, je to labrador a je to i retrívr ;)) a od roku 2013 se spolu věnujeme záchranářskému výcviku. Toto téma je velice zajímavé a s různou intenzitou se mu věnují různí lidé. Doufám, že se mi podaří zde zveřejnit nejaký článek o tom, jak probíhají pátrací akce a jak takový výcvik záchranářského psa probíhá.
+
+### O rodině
+
+V neposlední řadě jsem hrdým otcem dvouleté Esterky, která trochu nevědomky naborurala všechny předchozí koníčky, za což jsem hrozně rád, protože stejně jako Bárny od roku 2012, tak i ona nám každý den ukazuje svět, který bychom bez ní jen těžko mohli poznat. A i tom bych se chtěl čas od času na tomto místě zmínit.
