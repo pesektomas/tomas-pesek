@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'První seznamování s foťákem '
-date: '2016-07-20T22:44:00+02:00'
+date: '2016-07-22T22:44:00+02:00'
 description: >-
   Slovo dalo slovo a sešel jsme se s Dádou u zdymadla, odkud jsme se kolmo
   přesunuli do parku Na Špici, kde jsem měl v plánu dozvědět se něco o tom, jak
