@@ -15,8 +15,8 @@ Co se týče focení, tak to byla docela bída. Fotek jsem udělal docela dost, 
 
 Takže z focení v ZOO jsem byl spíš zklamaný než nadšený, nicméně výlet to byl hezký.
 
-![null](/img/zoo_zebra.png)
+![Zebra](/img/zoo_zebra.png)
 
-![null](/img/zoo_slon.png)
+![Slon](/img/zoo_slon.png)
 
-![null](/img/zoo_opice_1.png)
+![Opice](/img/zoo_opice_1.png)
