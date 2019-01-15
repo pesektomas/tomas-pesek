@@ -12,10 +12,6 @@ Bohužel odpoledne se zvířaty dobrou kompozicí nedisponovalo, nebo jsem ji pr
 
 ![Esterka 1](/img/img_5550.jpg)
 
-
-
 ![Esterka 2](/img/img_5556.jpg)
-
-
 
 ![Esterka 3](/img/img_5558.jpg)
