@@ -1,15 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
-import ReactGA from 'react-ga';
 
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
-
-    ReactGA.initialize('UA-81225037-1');
-    ReactGA.pageview(window.location.pathname + window.location.search);
 
     return (
       <section className="section">
