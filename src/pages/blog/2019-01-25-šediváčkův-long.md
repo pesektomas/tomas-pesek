@@ -6,7 +6,7 @@ description: >-
   Po pěti letech jsem se konečně jel podívat na nejdelší závor v závodech psích
   spřežení u nás.
 tags:
-  - Focení
+  - focení
 ---
 Na závod jsem se opravdu těšil, vše naznačovalo tomu, že bude krásné zimní počasí, už dva týdny nebylo zataženo, takže jsem čekal krásnou modrou oblohu se sluníčkem. Také jsem si kvůli tomu půjčil filtry (ND, polarizák i přechoďák). Na čtvrtek jsem měl nahlášené volno, bohužel, ve čtvrtek bylo zataženo. A navíc takovéto focení jsem ještě nezkoušel, takže výsledek mě moc nepotěšil. Nicméně jsem si prošel kus trati v Deštném u startu a kus u Šerlichu a byl jsem spokojený s tím, že jsem alespoň trochu mohl nasát atmosféru závodu a porovnat jí s atmosférou na dog treku. 
 
